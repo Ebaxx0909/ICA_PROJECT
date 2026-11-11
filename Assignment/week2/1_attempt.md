@@ -9,4 +9,7 @@
 
 **PLANNED DECISION**
 # 1- Exclude
-# 2- Correct 
+# The missing value should be removed from the data file
+
+# 2- Correct
+# The missing price should be corrected and the real price should be entered 
