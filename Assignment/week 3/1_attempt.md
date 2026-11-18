@@ -11,8 +11,8 @@
 **REFEREE'S NOTE**
 # O: One Staple A record (2026-01-15, City 2) has a price entered as “1,250”, while the other Staple A prices lie between about 99.5 and 122.
 # O: Because of the comma, pandas stored the price column as text, and mean failed until the commas were removed and the column was converted to numbers.
-# O: With the flagged value included, the Staple A mean is [158.33] and the median is [112.5].
-# O: With the flagged value excluded, the Staple A mean is [110.87] and the median is [112.5].
+# O: With the flagged value included, the Staple A mean is [158.7] and the median is [112.5].
+# O: With the flagged value excluded, the Staple A mean is [111.26] and the median is [112.5].
 # O: The mean changed by [47.46], while the median changed by [0].
 # E: The mean is a sum over all observations divided by their count, so a value roughly ten times the others shifts it largely.
 # E: The median is the middle ranked observation, so adding one extreme value moves it by at most one step.
