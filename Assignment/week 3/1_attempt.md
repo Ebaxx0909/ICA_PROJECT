@@ -1,7 +1,7 @@
 **STATISTICS**
 # I would report the minimum, maximum, median and standard deviation
 # Minimum and maximum price can be used to detect if any outliers lie in each item.
-# Standard deviation could be used to measure on average how much the price is deviating from city to city
+# Standard deviation could be used to measure on average how much the price is deviating from mean
 # Instead of mean, I would report median as it is a better measure of central tendency than mean.
 
 **DIFFERENCE**
